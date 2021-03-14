@@ -6,7 +6,19 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 25 Jul 2017 00:00:08 +0800</lastBuildDate><atom:link href="https://blog.ibrowse.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Mar 2021 17:36:22 +0800</lastBuildDate><atom:link href="https://blog.ibrowse.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>笔记软件</title>
+      <link>https://blog.ibrowse.top/posts/notes-software/</link>
+      <pubDate>Sun, 14 Mar 2021 17:36:22 +0800</pubDate>
+      
+      <guid>https://blog.ibrowse.top/posts/notes-software/</guid>
+      <description>需求    笔记软件是我的日常必需品，我有如下几个需求：
+ Self-Hosted 最起码支持Web端，最好能够全端支持（PC/Web） 支持导入和导出功能 Markdown格式 树状的目录结构，以及目录排序  对比    我用过很多笔记软件，包括：
+ Outline VSCode OneNote Notion Evernote Google Keep SimpleNote  懒得做图了，在Github上找了一张对比图，有兴趣的可以看看。
+结果    基于我的需求，我最终选择了Outline。</description>
+    </item>
+    
     <item>
       <title>Init</title>
       <link>https://blog.ibrowse.top/posts/init/</link>

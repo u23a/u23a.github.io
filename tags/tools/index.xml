@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blog</title>
-    <link>https://blog.ibrowse.top/posts/</link>
-    <description>Recent content in Posts on Blog</description>
+    <title>Tools on Blog</title>
+    <link>https://blog.ibrowse.top/tags/tools/</link>
+    <description>Recent content in Tools on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 14 Mar 2021 17:36:22 +0800</lastBuildDate><atom:link href="https://blog.ibrowse.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Mar 2021 17:36:22 +0800</lastBuildDate><atom:link href="https://blog.ibrowse.top/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>笔记软件</title>
       <link>https://blog.ibrowse.top/posts/notes-software/</link>
@@ -17,15 +17,6 @@
  Self-Hosted 最起码支持Web端，最好能够全端支持（PC/Web） 支持导入和导出功能 Markdown格式 树状的目录结构，以及目录排序  对比    我用过很多笔记软件，包括：
  Outline VSCode OneNote Notion Evernote Google Keep SimpleNote  懒得做图了，在Github上找了一张对比图，有兴趣的可以看看。
 结果    基于我的需求，我最终选择了Outline。</description>
-    </item>
-    
-    <item>
-      <title>Init</title>
-      <link>https://blog.ibrowse.top/posts/init/</link>
-      <pubDate>Tue, 25 Jul 2017 00:00:08 +0800</pubDate>
-      
-      <guid>https://blog.ibrowse.top/posts/init/</guid>
-      <description>Init blog with Hugo,hugo-coder and Utterances.</description>
     </item>
     
   </channel>
